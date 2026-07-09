@@ -1,40 +1,57 @@
-[![MasterHead](https://avatars.githubusercontent.com/u/150912855?v=4)](https://github.com/senaelifyorucu)
-<h1 align="center">Hi 👋, I'm Sena Elif Yorucu</h1>
-<h3 align="center">I am a first year Computer Engineering student in Poland.</h3>
+# Hi, I'm Sena 👋
 
+Computer Science student at the Polish-Japanese Academy of Information Technology in Warsaw, with a strong interest in **Artificial Intelligence, Data Science, Computer Vision, and Software Engineering**.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=senaelifyorucu&label=Profile%20views&color=0e75b6&style=flat" alt="senaelifyorucu" /> </p>
+I enjoy building projects that combine algorithms, backend development, databases, and intelligent systems. My current focus is on strengthening my knowledge of Machine Learning and developing practical software projects from scratch.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=senaelifyorucu" alt="senaelifyorucu" /></a> </p>
+## About Me
 
-<p align="left"> <a href="https://twitter.com/senaelifyorucu" target="blank"><img src="https://img.shields.io/twitter/follow/senaelifyorucu?logo=twitter&style=for-the-badge" alt="senaelifyorucu" /></a> </p>
+- 🎓 Computer Science student at PJATK in Warsaw
+- 🤖 Interested in Artificial Intelligence, Machine Learning, and Data Science
+- 👁️ Exploring Computer Vision through projects with Python and OpenCV
+- 💻 Building applications with Python, Java, C#, C++, SQL, and ASP.NET Core
+- 🌍 Currently seeking international internship opportunities, including Erasmus+
+- 🏃 Outside technology, I enjoy running 5K and 10K races and discovering new places
 
-- 🔭 I’m currently working on **AI projects**
+## Featured Projects
 
-- 🌱 I’m currently learning **ML and KIVY**
+### 🤖 k-NN Classifier from Scratch
+A Java implementation of the k-Nearest Neighbors algorithm built entirely from scratch without third-party Machine Learning libraries, achieving **96.67% accuracy on the Iris dataset**.
 
-- 👨‍💻 All of my projects are available at [https://github.com/senaelifyorucu](https://github.com/senaelifyorucu)
+### 👁️ Face Recognition System
+A real-time face recognition system built with Python, OpenCV, NumPy, and SQL, featuring webcam-based dataset creation, model training, and live recognition.
 
-- 📝 I regularly write articles on [https://medium.com/@senaelifyorucu](https://medium.com/@senaelifyorucu)
+### 🏥 Clinic Management API
+A RESTful Web API built with ASP.NET Core, Entity Framework Core, and SQL Server for managing patients, doctors, appointments, and medical services.
 
-- 📫 How to reach me **senaelifyorucu@gmail.com**
+### 🖥️ PC Component Management API
+A RESTful ASP.NET Core API for managing PCs, hardware components, manufacturers, and component types using Entity Framework Core and DTO-based architecture.
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/sena-elif-yorucu-aa3789279/](https://www.linkedin.com/in/sena-elif-yorucu-aa3789279/)
+### 🎓 University Management API
+An ASP.NET Core Web API developed using the Database First approach for managing students, courses, assignments, and submissions.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/senaelifyorucu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="senaelifyorucu" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sena elif yorucu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sena elif yorucu" height="30" width="40" /></a>
-<a href="https://fb.com/sena elif yorucu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sena elif yorucu" height="30" width="40" /></a>
-<a href="https://instagram.com/senaelifyorucu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="senaelifyorucu" height="30" width="40" /></a>
-<a href="https://medium.com/sena elif yorucu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="sena elif yorucu" height="30" width="40" /></a>
-</p>
+### 🐢 Turtle Bridge Game
+A Java Swing desktop game featuring event-driven gameplay, multithreading, collision detection, scoring, custom GUI components, and sound effects.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+## Tech Stack
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=senaelifyorucu&show_icons=true&locale=en&layout=compact" alt="senaelifyorucu" /></p>
+**Languages:** Python · Java · C# · C++ · SQL
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=senaelifyorucu&show_icons=true&locale=en" alt="senaelifyorucu" /></p>
+**Backend & Frameworks:** ASP.NET Core · Entity Framework Core · .NET · Java Swing
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=senaelifyorucu&" alt="senaelifyorucu" /></p>
+**Databases:** Microsoft SQL Server · Oracle SQL · SQLite
+
+**Tools:** Git · GitHub · IntelliJ IDEA · Rider · Visual Studio · VS Code · CLion
+
+## Currently Exploring
+
+- Machine Learning and Artificial Intelligence
+- Data Science
+- Computer Vision
+- Cloud Technologies
+- Advanced Backend Development
+
+## Let's Connect
+
+- LinkedIn: linkedin.com/in/sena-elif-y-aa3789279
+- GitHub: github.com/senaelifyorucu
