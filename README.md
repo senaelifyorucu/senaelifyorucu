@@ -11,7 +11,6 @@ I enjoy building projects that combine algorithms, backend development, database
 - 👁️ Exploring Computer Vision through projects with Python and OpenCV
 - 💻 Building applications with Python, Java, C#, C++, SQL, and ASP.NET Core
 - 🌍 Currently seeking international internship opportunities, including Erasmus+
-- 🏃 Outside technology, I enjoy running 5K and 10K races and discovering new places
 
 ## Featured Projects
 
